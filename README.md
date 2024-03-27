@@ -1,4 +1,4 @@
-[![Hello world!](header.png)](https://github.com/UdenalR?tab=repositories)
+[![Hello world!](header.jpg)](https://github.com/UdenalR?tab=repositories)
 
 ---
 
