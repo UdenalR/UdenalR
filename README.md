@@ -18,7 +18,7 @@ I am currently studying data science and visualization and have a background in 
 
 My professional interests lie in business development, stakeholders management, and customer success, areas where I have gained extensive experience since 2018. I focus on ensuring customer satisfaction and success through effective stakeholder engagement and project management.
 
-Aside from my professional pursuits, I have a deep passion for exploring Brazil's natural beauty through camping, having visited 26 out of the country's 27 states. I also have a profound love for the sea and enjoy navigating its vastness whenever possible. My hobbies include traveling to music festivals, collecting vinyl records, and building my Magic: The Gathering card collection. Additionally, I have a quirky obsession with dinosaurs, constantly indulging in documentaries and books about these fascinating creatures.
+Aside from my professional pursuits, I have a deep passion for exploring Brazil's natural beauty through camping, having visited 26 out of the country's 27 states. I also have a profound love for the sea and enjoy navigating its vastness whenever possible. My hobbies include traveling to music festivals, collecting nice books, and building my Magic: The Gathering card collection. Additionally, I have a quirky obsession with dinosaurs, constantly indulging in documentaries and books about these fascinating creatures.
   </p>
   <p>
   <h3>🤹🏻‍♀️ Soft Skills</h3>
