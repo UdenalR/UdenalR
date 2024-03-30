@@ -46,6 +46,8 @@ Aside from my professional pursuits, I have a deep passion for exploring Brazil'
 <div align="justify"><h2><a href="https://ada.tech/" target="_blank" rel="noreferrer"> <img src="adatech.jpg" alt="Ada Tech" width="20" height="20"/></a> Bootcamp by Ada Tech – Data Science</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
++ [Project 6](https://github.com/UdenalR/cell_phone_pricing_machine_learning_collab/tree/main): This repository showcases my assignment submitted for the Sigma Software selection process, demonstrating the end-to-end process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data. Posted with authorization from Sigma Software (LinkedIn: [Sigma Software Group](https://www.linkedin.com/company/sigma-software-group/)).
+  
 + [Project 5](https://github.com/UdenalR/projeto_final_streamings_data): This repository presents my Final Project for the Power BI course, demonstrating the complete process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data.
 
 + [Project 4](https://github.com/UdenalR/wine_analysis_2024): This repository hosts my final project for the statistics course, illustrating the process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data.
