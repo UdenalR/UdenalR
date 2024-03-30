@@ -43,15 +43,12 @@ Aside from my professional pursuits, I have a deep passion for exploring Brazil'
 <h1 align="left">🚀 My Projects</h1>
 <div align="justify">I have been fortunate to engage in a diverse range of projects that demonstrate my continuous learning and the skills I've developed. These projects serve as a testament to my grasp and practical application of a wide array of concepts I've acquired during my career transition. Here are a few standout projects:.</div>
 
-Peço desculpas pela confusão anterior. Aqui está a seção "Personal Projects" sem mencionar a Ada:
-
-
-<h1 align="left">🚀 My Projects</h1>
-<div align="justify">I have been fortunate to engage in a diverse range of projects that demonstrate my continuous learning and the skills I've developed. These projects serve as a testament to my grasp and practical application of a wide array of concepts I've acquired during my career transition. Here are a few standout projects:</div>
 
 ---
 
 <div align="justify"><h2>🧑🏻‍💻 Personal Projects</h2></div>
+
+
 <div align="justify">I am currently exploring new tools and expanding my toolkit through the development of the following projects:</div>
 
 + [Assignment for Sigma Software Selection Process](https://github.com/UdenalR/cell_phone_pricing_machine_learning_collab/tree/main): This repository showcases my assignment submitted for the Sigma Software selection process, demonstrating the end-to-end process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data. Posted with authorization from Sigma Software (LinkedIn: [Sigma Software Group](https://www.linkedin.com/company/sigma-software-group/)).
