@@ -46,12 +46,15 @@ Aside from my professional pursuits, I have a deep passion for exploring Brazil'
 
 ---
 
-<div align="justify"><h2>🧑🏻‍💻 Personal Projects</h2></div>
 
+<div align="justify"><h2>🧑🏻‍💻 Personal Projects</h2></div>
 
 <div align="justify">I am currently exploring new tools and expanding my toolkit through the development of the following projects:</div>
 
 + [Assignment for Sigma Software Selection Process](https://github.com/UdenalR/cell_phone_pricing_machine_learning_collab/tree/main): This repository showcases my assignment submitted for the Sigma Software selection process, demonstrating the end-to-end process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data. Posted with authorization from Sigma Software (LinkedIn: [Sigma Software Group](https://www.linkedin.com/company/sigma-software-group/)).
+
+
+---
 
 
 <div align="justify"><h2><a href="https://ada.tech/" target="_blank" rel="noreferrer"> <img src="adatech.jpg" alt="Ada Tech" width="20" height="20"/></a> Bootcamp by Ada Tech – Data Science</h2></div>
