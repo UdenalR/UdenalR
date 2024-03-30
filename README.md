@@ -43,11 +43,13 @@ Aside from my professional pursuits, I have a deep passion for exploring Brazil'
 <h1 align="left">🚀 My Projects</h1>
 <div align="justify">I have been fortunate to engage in a diverse range of projects that demonstrate my continuous learning and the skills I've developed. These projects serve as a testament to my grasp and practical application of a wide array of concepts I've acquired during my career transition. Here are a few standout projects:.</div>
 
+<div align="justify"><h2><a href="https://github.com/UdenalR/cell_phone_pricing_machine_learning_collab/tree/main"> <img src="your_project_image.jpg" alt="Assignment for Sigma Software Selection Process" width="20" height="20"/></a> Assignment for Sigma Software Selection Process</h2></div>
+<div align="justify">This repository showcases my assignment submitted for the Sigma Software selection process, demonstrating the end-to-end process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data. Posted with authorization from Sigma Software (LinkedIn: [Sigma Software Group](https://www.linkedin.com/company/sigma-software-group/)).</div>
+
 <div align="justify"><h2><a href="https://ada.tech/" target="_blank" rel="noreferrer"> <img src="adatech.jpg" alt="Ada Tech" width="20" height="20"/></a> Bootcamp by Ada Tech – Data Science</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
-+ [Project 6](https://github.com/UdenalR/cell_phone_pricing_machine_learning_collab/tree/main): This repository showcases my assignment submitted for the Sigma Software selection process, demonstrating the end-to-end process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data. Posted with authorization from Sigma Software (LinkedIn: [Sigma Software Group](https://www.linkedin.com/company/sigma-software-group/)).
-  
+
 + [Project 5](https://github.com/UdenalR/projeto_final_streamings_data): This repository presents my Final Project for the Power BI course, demonstrating the complete process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data.
 
 + [Project 4](https://github.com/UdenalR/wine_analysis_2024): This repository hosts my final project for the statistics course, illustrating the process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data.
