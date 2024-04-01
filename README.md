@@ -14,7 +14,7 @@
 <h1 align="left"> 🧙🏻‍♂️ About me</h1>
 <div align="justify">
   <p>
-I am currently studying data science and visualization and have a background in producing corporate events for technology and finance companies across the Americas and Europe. With a design background and specialization in Data Science, I have gained a comprehensive understanding of business needs and am proficient in English, with intermediate proficiency in Spanish.
+I recently completed a course in data science and visualization and have experience in producing corporate events for technology and finance companies across the Americas and Europe. With a design background and specialization in Data Science, I have gained a comprehensive understanding of business needs and am proficient in English, with intermediate proficiency in Spanish.
 
 My professional interests lie in business development, stakeholders management, and customer success, areas where I have gained extensive experience since 2018. I focus on ensuring customer satisfaction and success through effective stakeholder engagement and project management.
 
@@ -22,7 +22,7 @@ Aside from my professional pursuits, I have a deep passion for exploring Brazil'
   </p>
   <p>
   <h3>🤹🏻‍♀️ Soft Skills</h3>
-    Accommodating, communicative, organized, proactive, result driven, business driven, passionate and committed.
+    Accommodating, communicative, organized, proactive, result-driven, business-driven, passionate and committed.
   <h3>🗂️ Hard Skills</h3>
     Python, SQL, ETL, Google Colab, PowerBI Database manipulation, Data visualization and statistics.
   </p>
