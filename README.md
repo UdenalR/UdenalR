@@ -52,6 +52,13 @@ Aside from my professional pursuits, I have a deep passion for exploring Brazil'
 + [Assignment for Sigma Software Selection Process](https://github.com/UdenalR/cell_phone_pricing_machine_learning_collab/tree/main): This repository showcases my assignment submitted for the Sigma Software selection process, demonstrating the end-to-end process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data. Posted with authorization from Sigma Software (LinkedIn: [Sigma Software Group](https://www.linkedin.com/company/sigma-software-group/)).
 
 ---
+<div align="justify"><h2>🏆 Hackaton</h2></div>
+<div align="justify">As a participant in hackathon events, I contributed to the development of the following projects:</div>
+
++ [Competition 1 – Ada Hack](https://github.com/UdenalR/Hackaton-ADAHACK): As a member of team DD-08, known as InclusiData Alchemy, I designed a diversity and inclusion solution based on data provided by Corp Solutions, a fictitious company for the competition. This project won **2nd place** in the data category, among nine teams.
+
+  
+
 
 <div align="justify"><h2><a href="https://ada.tech/" target="_blank" rel="noreferrer"> <img src="adatech.jpg" alt="Ada Tech" width="20" height="20"/></a> Bootcamp by Ada Tech – Data Science</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
